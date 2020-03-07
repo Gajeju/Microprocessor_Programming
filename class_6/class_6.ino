@@ -18,6 +18,7 @@ void loop() {
     }
   }
   
+  
   for (char i = 0; i < blinkNumber; i++)
   {
     digitalWrite(ledPin, HIGH);
